@@ -31,4 +31,8 @@ pip install opencv-python mediapipe numpy
 * Raise only the index finger to start drawing.
 * Select the eraser to erase the drawing.
 
-This project is inspired from **Murtaza's Workshop**
+## Demo
+https://github.com/user-attachments/assets/fa75cb86-8c8c-4d26-9a01-1a92ed475ff7
+
+
+This project is inspired from the youtube channel **Murtaza's Workshop**. 
